@@ -9,7 +9,7 @@ This repository contains notes, code samples, and configurations to help with tr
  ┣ 📂 notes/                 # Concepts, strategies, and key learnings  
  ┣ 📂 projects/              # Hands-on projects and code examples  
  ┣ 📂 scripts/               # Useful Bash/Python scripts  
- ┣ 📂 k8s/         # YAML files for Kubernetes deployments  
+ ┣ 📂 k8s/                   # YAML files for Kubernetes deployments  
  ┣ 📂 ci-cd/                 # GitHub Actions/Jenkins/ArgoCD configurations  
  ┣ 📜 README.md              # Overview of the repo  
  ┣ 📜 roadmap.md             # 15-day roadmap + checklist  
